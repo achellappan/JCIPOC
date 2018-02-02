@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
+    uuid="_202j4AgpEeiGvOil99jB7Q" name="VAV_Box"
+    displayName="VAV Box">
+  <geometry deletable="false" uuid="_202j4QgpEeiGvOil99jB7Q"
+      name="root">
+    <parentPlugs uuid="_202j4ggpEeiGvOil99jB7Q" name="ParentPlug"/>
+  </geometry>
+</comp:Component>
